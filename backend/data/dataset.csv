@@ -1,0 +1,838 @@
+source,target,direction
+Apa kabar?,napa kabar?,id-to-banjar
+napa kabar?,Apa kabar?,banjar-to-id
+Bagaimana kabarmu?,kayapa kabarmu?,id-to-banjar
+kayapa kabarmu?,Bagaimana kabarmu?,banjar-to-id
+Saya tidak tahu.,ulun kada tahu.,id-to-banjar
+ulun kada tahu.,Saya tidak tahu.,banjar-to-id
+Tolong bantu saya.,tulung bantu ulun.,id-to-banjar
+tulung bantu ulun.,Tolong bantu saya.,banjar-to-id
+Terima kasih.,matur kasih.,id-to-banjar
+matur kasih.,Terima kasih.,banjar-to-id
+Saya mau pergi ke pasar.,ulun handak tulak ka pasar.,id-to-banjar
+ulun handak tulak ka pasar.,Saya mau pergi ke pasar.,banjar-to-id
+Anda tidak mau pergi di sini.,pian kada handak tulak di sini.,id-to-banjar
+pian kada handak tulak di sini.,kemu nggak ingin pergi di sini.,banjar-to-id
+Aku ingin pulang di sini.,ulun hpiank mulih di sini.,id-to-banjar
+ulun hpiank mulih di sini.,aku hkemuk pulang di sini.,banjar-to-id
+Aku ingin minum ke kota.,ulun hpiank minum ka kota.,id-to-banjar
+ulun hpiank minum ka kota.,aku hkemuk minum ke kota.,banjar-to-id
+Aku tidak mau makan di kantor.,ulun kada handak makan di kantor.,id-to-banjar
+ulun kada handak makan di kantor.,aku nggak ingin maken di kentor.,banjar-to-id
+Aku belum makan ke pasar.,ulun balum makan ka pasar.,id-to-banjar
+ulun balum makan ka pasar.,aku belum maken ke pasar.,banjar-to-id
+Aku mau belajar di kantor.,ulun handak belajar di kantor.,id-to-banjar
+ulun handak belajar di kantor.,aku ingin belajar di kentor.,banjar-to-id
+Kamu ingin belajar ke pasar.,pian hpiank belajar ka pasar.,id-to-banjar
+pian hpiank belajar ka pasar.,kemu hkemuk belajar ke pasar.,banjar-to-id
+Aku sudah tidur di sini.,ulun udah tidur di sini.,id-to-banjar
+ulun udah tidur di sini.,aku sudah tidur di sini.,banjar-to-id
+Anda sudah kerja di sini.,pian udah karja di sini.,id-to-banjar
+pian udah karja di sini.,kemu sudah kerja di sini.,banjar-to-id
+Saya tidak mau belajar di sini.,ulun kada handak belajar di sini.,id-to-banjar
+ulun kada handak belajar di sini.,aku nggak ingin belajar di sini.,banjar-to-id
+Kamu belum pergi di kantor.,pian balum tulak di kantor.,id-to-banjar
+pian balum tulak di kantor.,kemu belum pergi di kentor.,banjar-to-id
+Kamu belum pergi ke pasar.,pian balum tulak ka pasar.,id-to-banjar
+pian balum tulak ka pasar.,kemu belum pergi ke pasar.,banjar-to-id
+Aku ingin kerja ke pasar.,ulun hpiank karja ka pasar.,id-to-banjar
+ulun hpiank karja ka pasar.,aku hkemuk kerja ke pasar.,banjar-to-id
+Anda sudah belajar ke kota.,pian udah belajar ka kota.,id-to-banjar
+pian udah belajar ka kota.,kemu sudah belajar ke kota.,banjar-to-id
+Anda sudah pergi ke kota.,pian udah tulak ka kota.,id-to-banjar
+pian udah tulak ka kota.,kemu sudah pergi ke kota.,banjar-to-id
+Kamu belum pulang ke kota.,pian balum mulih ka kota.,id-to-banjar
+pian balum mulih ka kota.,kemu belum pulang ke kota.,banjar-to-id
+Aku ingin kerja ke sekolah.,ulun hpiank karja ka sekolah.,id-to-banjar
+ulun hpiank karja ka sekolah.,aku hkemuk kerja ke sekolah.,banjar-to-id
+Saya sudah bangun di kantor.,ulun udah bangun di kantor.,id-to-banjar
+ulun udah bangun di kantor.,aku sudah bangun di kentor.,banjar-to-id
+Saya sudah makan ke sekolah.,ulun udah makan ka sekolah.,id-to-banjar
+ulun udah makan ka sekolah.,aku sudah maken ke sekolah.,banjar-to-id
+Aku sudah bangun di sini.,ulun udah bangun di sini.,id-to-banjar
+ulun udah bangun di sini.,aku sudah bangun di sini.,banjar-to-id
+Anda ingin tidur di sini.,pian hpiank tidur di sini.,id-to-banjar
+pian hpiank tidur di sini.,kemu hkemuk tidur di sini.,banjar-to-id
+Anda tidak mau pulang di sini.,pian kada handak mulih di sini.,id-to-banjar
+pian kada handak mulih di sini.,kemu nggak ingin pulang di sini.,banjar-to-id
+Anda belum pergi di sini.,pian balum tulak di sini.,id-to-banjar
+pian balum tulak di sini.,kemu belum pergi di sini.,banjar-to-id
+Aku sudah pulang ke kota.,ulun udah mulih ka kota.,id-to-banjar
+ulun udah mulih ka kota.,aku sudah pulang ke kota.,banjar-to-id
+Saya belum makan ke pasar.,ulun balum makan ka pasar.,id-to-banjar
+Anda ingin belajar ke sekolah.,pian hpiank belajar ka sekolah.,id-to-banjar
+pian hpiank belajar ka sekolah.,kemu hkemuk belajar ke sekolah.,banjar-to-id
+Aku belum minum ke sekolah.,ulun balum minum ka sekolah.,id-to-banjar
+ulun balum minum ka sekolah.,aku belum minum ke sekolah.,banjar-to-id
+Aku mau tidur di sini.,ulun handak tidur di sini.,id-to-banjar
+ulun handak tidur di sini.,aku ingin tidur di sini.,banjar-to-id
+Saya sudah kerja di sini.,ulun udah karja di sini.,id-to-banjar
+ulun udah karja di sini.,aku sudah kerja di sini.,banjar-to-id
+Saya belum makan ke sekolah.,ulun balum makan ka sekolah.,id-to-banjar
+ulun balum makan ka sekolah.,aku belum maken ke sekolah.,banjar-to-id
+Anda mau tidur ke pasar.,pian handak tidur ka pasar.,id-to-banjar
+pian handak tidur ka pasar.,kemu ingin tidur ke pasar.,banjar-to-id
+Anda belum minum di kantor.,pian balum minum di kantor.,id-to-banjar
+pian balum minum di kantor.,kemu belum minum di kentor.,banjar-to-id
+Anda mau makan ke pasar.,pian handak makan ka pasar.,id-to-banjar
+pian handak makan ka pasar.,kemu ingin maken ke pasar.,banjar-to-id
+Anda ingin bangun ke kota.,pian hpiank bangun ka kota.,id-to-banjar
+pian hpiank bangun ka kota.,kemu hkemuk bangun ke kota.,banjar-to-id
+Kamu ingin pulang ke pasar.,pian hpiank mulih ka pasar.,id-to-banjar
+pian hpiank mulih ka pasar.,kemu hkemuk pulang ke pasar.,banjar-to-id
+Saya sudah pergi di sini.,ulun udah tulak di sini.,id-to-banjar
+ulun udah tulak di sini.,aku sudah pergi di sini.,banjar-to-id
+Aku tidak mau tidur di sini.,ulun kada handak tidur di sini.,id-to-banjar
+ulun kada handak tidur di sini.,aku nggak ingin tidur di sini.,banjar-to-id
+Aku tidak mau tidur ke kota.,ulun kada handak tidur ka kota.,id-to-banjar
+ulun kada handak tidur ka kota.,aku nggak ingin tidur ke kota.,banjar-to-id
+Aku tidak mau pulang ke kota.,ulun kada handak mulih ka kota.,id-to-banjar
+ulun kada handak mulih ka kota.,aku nggak ingin pulang ke kota.,banjar-to-id
+Anda sudah pulang di sini.,pian udah mulih di sini.,id-to-banjar
+pian udah mulih di sini.,kemu sudah pulang di sini.,banjar-to-id
+Anda sudah makan ke pasar.,pian udah makan ka pasar.,id-to-banjar
+pian udah makan ka pasar.,kemu sudah maken ke pasar.,banjar-to-id
+Kamu sudah minum di rumah.,pian udah minum di rumah.,id-to-banjar
+pian udah minum di rumah.,kemu sudah minum di rumah.,banjar-to-id
+Saya belum makan di sini.,ulun balum makan di sini.,id-to-banjar
+ulun balum makan di sini.,aku belum maken di sini.,banjar-to-id
+Anda ingin bangun di kantor.,pian hpiank bangun di kantor.,id-to-banjar
+pian hpiank bangun di kantor.,kemu hkemuk bangun di kentor.,banjar-to-id
+Kamu tidak mau makan ke pasar.,pian kada handak makan ka pasar.,id-to-banjar
+pian kada handak makan ka pasar.,kemu nggak ingin maken ke pasar.,banjar-to-id
+Kamu ingin pergi di rumah.,pian hpiank tulak di rumah.,id-to-banjar
+pian hpiank tulak di rumah.,kemu hkemuk pergi di rumah.,banjar-to-id
+Saya tidak mau pergi ke sekolah.,ulun kada handak tulak ka sekolah.,id-to-banjar
+ulun kada handak tulak ka sekolah.,aku nggak ingin pergi ke sekolah.,banjar-to-id
+Anda tidak mau tidur ke pasar.,pian kada handak tidur ka pasar.,id-to-banjar
+pian kada handak tidur ka pasar.,kemu nggak ingin tidur ke pasar.,banjar-to-id
+Saya tidak mau pergi di rumah.,ulun kada handak tulak di rumah.,id-to-banjar
+ulun kada handak tulak di rumah.,aku nggak ingin pergi di rumah.,banjar-to-id
+Anda sudah bangun ke kota.,pian udah bangun ka kota.,id-to-banjar
+pian udah bangun ka kota.,kemu sudah bangun ke kota.,banjar-to-id
+Kamu mau kerja ke kota.,pian handak karja ka kota.,id-to-banjar
+pian handak karja ka kota.,kemu ingin kerja ke kota.,banjar-to-id
+Anda ingin makan ke pasar.,pian hpiank makan ka pasar.,id-to-banjar
+pian hpiank makan ka pasar.,kemu hkemuk maken ke pasar.,banjar-to-id
+Aku belum pergi di rumah.,ulun balum tulak di rumah.,id-to-banjar
+ulun balum tulak di rumah.,aku belum pergi di rumah.,banjar-to-id
+Aku ingin minum di kantor.,ulun hpiank minum di kantor.,id-to-banjar
+ulun hpiank minum di kantor.,aku hkemuk minum di kentor.,banjar-to-id
+Anda mau kerja ke pasar.,pian handak karja ka pasar.,id-to-banjar
+pian handak karja ka pasar.,kemu ingin kerja ke pasar.,banjar-to-id
+Aku mau pulang di sini.,ulun handak mulih di sini.,id-to-banjar
+ulun handak mulih di sini.,aku ingin pulang di sini.,banjar-to-id
+Aku belum bangun ke sekolah.,ulun balum bangun ka sekolah.,id-to-banjar
+ulun balum bangun ka sekolah.,aku belum bangun ke sekolah.,banjar-to-id
+Kamu belum makan ke kota.,pian balum makan ka kota.,id-to-banjar
+pian balum makan ka kota.,kemu belum maken ke kota.,banjar-to-id
+Saya mau pergi ke kota.,ulun handak tulak ka kota.,id-to-banjar
+ulun handak tulak ka kota.,aku ingin pergi ke kota.,banjar-to-id
+Anda belum tidur ke pasar.,pian balum tidur ka pasar.,id-to-banjar
+pian balum tidur ka pasar.,kemu belum tidur ke pasar.,banjar-to-id
+Aku belum belajar ke pasar.,ulun balum belajar ka pasar.,id-to-banjar
+ulun balum belajar ka pasar.,aku belum belajar ke pasar.,banjar-to-id
+Saya tidak mau makan di rumah.,ulun kada handak makan di rumah.,id-to-banjar
+ulun kada handak makan di rumah.,aku nggak ingin maken di rumah.,banjar-to-id
+Aku mau minum ke kota.,ulun handak minum ka kota.,id-to-banjar
+ulun handak minum ka kota.,aku ingin minum ke kota.,banjar-to-id
+Anda mau kerja di sini.,pian handak karja di sini.,id-to-banjar
+pian handak karja di sini.,kemu ingin kerja di sini.,banjar-to-id
+Kamu ingin belajar di rumah.,pian hpiank belajar di rumah.,id-to-banjar
+pian hpiank belajar di rumah.,kemu hkemuk belajar di rumah.,banjar-to-id
+Saya mau belajar di kantor.,ulun handak belajar di kantor.,id-to-banjar
+Kamu sudah tidur ke pasar.,pian udah tidur ka pasar.,id-to-banjar
+pian udah tidur ka pasar.,kemu sudah tidur ke pasar.,banjar-to-id
+Aku ingin bangun ke pasar.,ulun hpiank bangun ka pasar.,id-to-banjar
+ulun hpiank bangun ka pasar.,aku hkemuk bangun ke pasar.,banjar-to-id
+Saya belum makan ke kota.,ulun balum makan ka kota.,id-to-banjar
+ulun balum makan ka kota.,aku belum maken ke kota.,banjar-to-id
+Anda tidak mau kerja ke sekolah.,pian kada handak karja ka sekolah.,id-to-banjar
+pian kada handak karja ka sekolah.,kemu nggak ingin kerja ke sekolah.,banjar-to-id
+Aku tidak mau tidur ke sekolah.,ulun kada handak tidur ka sekolah.,id-to-banjar
+ulun kada handak tidur ka sekolah.,aku nggak ingin tidur ke sekolah.,banjar-to-id
+Kamu sudah belajar ke sekolah.,pian udah belajar ka sekolah.,id-to-banjar
+pian udah belajar ka sekolah.,kemu sudah belajar ke sekolah.,banjar-to-id
+Kamu belum bangun ke sekolah.,pian balum bangun ka sekolah.,id-to-banjar
+pian balum bangun ka sekolah.,kemu belum bangun ke sekolah.,banjar-to-id
+Kamu sudah pulang di rumah.,pian udah mulih di rumah.,id-to-banjar
+pian udah mulih di rumah.,kemu sudah pulang di rumah.,banjar-to-id
+Saya sudah pergi ke sekolah.,ulun udah tulak ka sekolah.,id-to-banjar
+ulun udah tulak ka sekolah.,aku sudah pergi ke sekolah.,banjar-to-id
+ulun handak tulak ka pasar.,aku ingin pergi ke pasar.,banjar-to-id
+Kamu mau makan di sini.,pian handak makan di sini.,id-to-banjar
+pian handak makan di sini.,kemu ingin maken di sini.,banjar-to-id
+Aku tidak mau pergi di sini.,ulun kada handak tulak di sini.,id-to-banjar
+ulun kada handak tulak di sini.,aku nggak ingin pergi di sini.,banjar-to-id
+Saya belum tidur ke pasar.,ulun balum tidur ka pasar.,id-to-banjar
+ulun balum tidur ka pasar.,aku belum tidur ke pasar.,banjar-to-id
+Aku sudah makan ke kota.,ulun udah makan ka kota.,id-to-banjar
+ulun udah makan ka kota.,aku sudah maken ke kota.,banjar-to-id
+Saya ingin kerja ke kota.,ulun hpiank karja ka kota.,id-to-banjar
+ulun hpiank karja ka kota.,aku hkemuk kerja ke kota.,banjar-to-id
+Saya belum bangun ke pasar.,ulun balum bangun ka pasar.,id-to-banjar
+ulun balum bangun ka pasar.,aku belum bangun ke pasar.,banjar-to-id
+Aku belum makan ke kota.,ulun balum makan ka kota.,id-to-banjar
+Kamu ingin makan di rumah.,pian hpiank makan di rumah.,id-to-banjar
+pian hpiank makan di rumah.,kemu hkemuk maken di rumah.,banjar-to-id
+Anda ingin bangun ke pasar.,pian hpiank bangun ka pasar.,id-to-banjar
+pian hpiank bangun ka pasar.,kemu hkemuk bangun ke pasar.,banjar-to-id
+Aku tidak mau pulang di sini.,ulun kada handak mulih di sini.,id-to-banjar
+ulun kada handak mulih di sini.,aku nggak ingin pulang di sini.,banjar-to-id
+Anda belum minum ke pasar.,pian balum minum ka pasar.,id-to-banjar
+pian balum minum ka pasar.,kemu belum minum ke pasar.,banjar-to-id
+Aku ingin pergi ke kota.,ulun hpiank tulak ka kota.,id-to-banjar
+ulun hpiank tulak ka kota.,aku hkemuk pergi ke kota.,banjar-to-id
+Saya sudah kerja di kantor.,ulun udah karja di kantor.,id-to-banjar
+ulun udah karja di kantor.,aku sudah kerja di kentor.,banjar-to-id
+Kamu belum tidur di rumah.,pian balum tidur di rumah.,id-to-banjar
+pian balum tidur di rumah.,kemu belum tidur di rumah.,banjar-to-id
+Kamu belum belajar ke pasar.,pian balum belajar ka pasar.,id-to-banjar
+pian balum belajar ka pasar.,kemu belum belajar ke pasar.,banjar-to-id
+Kamu mau pulang di sini.,pian handak mulih di sini.,id-to-banjar
+pian handak mulih di sini.,kemu ingin pulang di sini.,banjar-to-id
+Anda sudah minum di kantor.,pian udah minum di kantor.,id-to-banjar
+pian udah minum di kantor.,kemu sudah minum di kentor.,banjar-to-id
+Kamu tidak mau makan di sini.,pian kada handak makan di sini.,id-to-banjar
+pian kada handak makan di sini.,kemu nggak ingin maken di sini.,banjar-to-id
+Kamu sudah tidur di kantor.,pian udah tidur di kantor.,id-to-banjar
+pian udah tidur di kantor.,kemu sudah tidur di kentor.,banjar-to-id
+Saya mau belajar ke sekolah.,ulun handak belajar ka sekolah.,id-to-banjar
+ulun handak belajar ka sekolah.,aku ingin belajar ke sekolah.,banjar-to-id
+Saya ingin kerja ke pasar.,ulun hpiank karja ka pasar.,id-to-banjar
+Aku sudah belajar di rumah.,ulun udah belajar di rumah.,id-to-banjar
+ulun udah belajar di rumah.,aku sudah belajar di rumah.,banjar-to-id
+Aku mau minum di sini.,ulun handak minum di sini.,id-to-banjar
+ulun handak minum di sini.,aku ingin minum di sini.,banjar-to-id
+Aku tidak mau pergi di rumah.,ulun kada handak tulak di rumah.,id-to-banjar
+Aku ingin makan di rumah.,ulun hpiank makan di rumah.,id-to-banjar
+ulun hpiank makan di rumah.,aku hkemuk maken di rumah.,banjar-to-id
+Aku sudah pergi di sini.,ulun udah tulak di sini.,id-to-banjar
+Kamu mau bangun ke kota.,pian handak bangun ka kota.,id-to-banjar
+pian handak bangun ka kota.,kemu ingin bangun ke kota.,banjar-to-id
+Aku mau makan ke pasar.,ulun handak makan ka pasar.,id-to-banjar
+ulun handak makan ka pasar.,aku ingin maken ke pasar.,banjar-to-id
+Saya belum pergi di rumah.,ulun balum tulak di rumah.,id-to-banjar
+Kamu tidak mau tidur ke pasar.,pian kada handak tidur ka pasar.,id-to-banjar
+Aku tidak mau belajar ke kota.,ulun kada handak belajar ka kota.,id-to-banjar
+ulun kada handak belajar ka kota.,aku nggak ingin belajar ke kota.,banjar-to-id
+Kamu tidak mau belajar di sini.,pian kada handak belajar di sini.,id-to-banjar
+pian kada handak belajar di sini.,kemu nggak ingin belajar di sini.,banjar-to-id
+Aku mau minum ke sekolah.,ulun handak minum ka sekolah.,id-to-banjar
+ulun handak minum ka sekolah.,aku ingin minum ke sekolah.,banjar-to-id
+Aku belum belajar di rumah.,ulun balum belajar di rumah.,id-to-banjar
+ulun balum belajar di rumah.,aku belum belajar di rumah.,banjar-to-id
+Saya sudah bangun ke kota.,ulun udah bangun ka kota.,id-to-banjar
+ulun udah bangun ka kota.,aku sudah bangun ke kota.,banjar-to-id
+Saya mau tidur ke sekolah.,ulun handak tidur ka sekolah.,id-to-banjar
+ulun handak tidur ka sekolah.,aku ingin tidur ke sekolah.,banjar-to-id
+Kamu ingin bangun ke pasar.,pian hpiank bangun ka pasar.,id-to-banjar
+Anda mau makan di sini.,pian handak makan di sini.,id-to-banjar
+Kamu mau minum ke pasar.,pian handak minum ka pasar.,id-to-banjar
+pian handak minum ka pasar.,kemu ingin minum ke pasar.,banjar-to-id
+Kamu mau tidur ke sekolah.,pian handak tidur ka sekolah.,id-to-banjar
+pian handak tidur ka sekolah.,kemu ingin tidur ke sekolah.,banjar-to-id
+Saya belum pergi ke sekolah.,ulun balum tulak ka sekolah.,id-to-banjar
+ulun balum tulak ka sekolah.,aku belum pergi ke sekolah.,banjar-to-id
+Anda ingin tidur di kantor.,pian hpiank tidur di kantor.,id-to-banjar
+pian hpiank tidur di kantor.,kemu hkemuk tidur di kentor.,banjar-to-id
+Saya tidak mau kerja ke pasar.,ulun kada handak karja ka pasar.,id-to-banjar
+ulun kada handak karja ka pasar.,aku nggak ingin kerja ke pasar.,banjar-to-id
+Anda ingin minum ke sekolah.,pian hpiank minum ka sekolah.,id-to-banjar
+pian hpiank minum ka sekolah.,kemu hkemuk minum ke sekolah.,banjar-to-id
+Aku belum pergi di sini.,ulun balum tulak di sini.,id-to-banjar
+ulun balum tulak di sini.,aku belum pergi di sini.,banjar-to-id
+Kamu mau tidur di rumah.,pian handak tidur di rumah.,id-to-banjar
+pian handak tidur di rumah.,kemu ingin tidur di rumah.,banjar-to-id
+Kamu sudah pulang ke sekolah.,pian udah mulih ka sekolah.,id-to-banjar
+pian udah mulih ka sekolah.,kemu sudah pulang ke sekolah.,banjar-to-id
+Kamu mau tidur di kantor.,pian handak tidur di kantor.,id-to-banjar
+pian handak tidur di kantor.,kemu ingin tidur di kentor.,banjar-to-id
+Anda sudah tidur ke pasar.,pian udah tidur ka pasar.,id-to-banjar
+Saya belum pulang di kantor.,ulun balum mulih di kantor.,id-to-banjar
+ulun balum mulih di kantor.,aku belum pulang di kentor.,banjar-to-id
+Aku belum makan di kantor.,ulun balum makan di kantor.,id-to-banjar
+ulun balum makan di kantor.,aku belum maken di kentor.,banjar-to-id
+Kamu mau bangun di sini.,pian handak bangun di sini.,id-to-banjar
+pian handak bangun di sini.,kemu ingin bangun di sini.,banjar-to-id
+Aku mau pulang di kantor.,ulun handak mulih di kantor.,id-to-banjar
+ulun handak mulih di kantor.,aku ingin pulang di kentor.,banjar-to-id
+Saya sudah belajar di kantor.,ulun udah belajar di kantor.,id-to-banjar
+ulun udah belajar di kantor.,aku sudah belajar di kentor.,banjar-to-id
+Saya tidak mau pulang di sini.,ulun kada handak mulih di sini.,id-to-banjar
+Kamu sudah pergi di kantor.,pian udah tulak di kantor.,id-to-banjar
+pian udah tulak di kantor.,kemu sudah pergi di kentor.,banjar-to-id
+Aku sudah tidur di rumah.,ulun udah tidur di rumah.,id-to-banjar
+ulun udah tidur di rumah.,aku sudah tidur di rumah.,banjar-to-id
+Kamu sudah pulang di sini.,pian udah mulih di sini.,id-to-banjar
+Aku belum tidur ke sekolah.,ulun balum tidur ka sekolah.,id-to-banjar
+ulun balum tidur ka sekolah.,aku belum tidur ke sekolah.,banjar-to-id
+Saya mau makan di kantor.,ulun handak makan di kantor.,id-to-banjar
+ulun handak makan di kantor.,aku ingin maken di kentor.,banjar-to-id
+Kamu mau makan di rumah.,pian handak makan di rumah.,id-to-banjar
+pian handak makan di rumah.,kemu ingin maken di rumah.,banjar-to-id
+Kamu ingin pulang di sini.,pian hpiank mulih di sini.,id-to-banjar
+pian hpiank mulih di sini.,kemu hkemuk pulang di sini.,banjar-to-id
+Saya mau tidur di sini.,ulun handak tidur di sini.,id-to-banjar
+Aku sudah bangun di rumah.,ulun udah bangun di rumah.,id-to-banjar
+ulun udah bangun di rumah.,aku sudah bangun di rumah.,banjar-to-id
+Kamu mau pulang ke pasar.,pian handak mulih ka pasar.,id-to-banjar
+pian handak mulih ka pasar.,kemu ingin pulang ke pasar.,banjar-to-id
+Kamu belum pergi ke sekolah.,pian balum tulak ka sekolah.,id-to-banjar
+pian balum tulak ka sekolah.,kemu belum pergi ke sekolah.,banjar-to-id
+Aku mau pergi ke kota.,ulun handak tulak ka kota.,id-to-banjar
+Saya tidak mau pergi di sini.,ulun kada handak tulak di sini.,id-to-banjar
+Kamu ingin bangun di rumah.,pian hpiank bangun di rumah.,id-to-banjar
+pian hpiank bangun di rumah.,kemu hkemuk bangun di rumah.,banjar-to-id
+Aku mau bangun di rumah.,ulun handak bangun di rumah.,id-to-banjar
+ulun handak bangun di rumah.,aku ingin bangun di rumah.,banjar-to-id
+Saya belum minum di kantor.,ulun balum minum di kantor.,id-to-banjar
+ulun balum minum di kantor.,aku belum minum di kentor.,banjar-to-id
+Aku ingin makan di sini.,ulun hpiank makan di sini.,id-to-banjar
+ulun hpiank makan di sini.,aku hkemuk maken di sini.,banjar-to-id
+Saya sudah pulang di sini.,ulun udah mulih di sini.,id-to-banjar
+ulun udah mulih di sini.,aku sudah pulang di sini.,banjar-to-id
+Kamu tidak mau pergi di kantor.,pian kada handak tulak di kantor.,id-to-banjar
+pian kada handak tulak di kantor.,kemu nggak ingin pergi di kentor.,banjar-to-id
+Aku ingin pulang ke kota.,ulun hpiank mulih ka kota.,id-to-banjar
+ulun hpiank mulih ka kota.,aku hkemuk pulang ke kota.,banjar-to-id
+Saya belum tidur ke kota.,ulun balum tidur ka kota.,id-to-banjar
+ulun balum tidur ka kota.,aku belum tidur ke kota.,banjar-to-id
+Aku sudah tidur ke sekolah.,ulun udah tidur ka sekolah.,id-to-banjar
+ulun udah tidur ka sekolah.,aku sudah tidur ke sekolah.,banjar-to-id
+Anda tidak mau bangun di rumah.,pian kada handak bangun di rumah.,id-to-banjar
+pian kada handak bangun di rumah.,kemu nggak ingin bangun di rumah.,banjar-to-id
+Saya sudah bangun ke sekolah.,ulun udah bangun ka sekolah.,id-to-banjar
+ulun udah bangun ka sekolah.,aku sudah bangun ke sekolah.,banjar-to-id
+Aku tidak mau makan di sini.,ulun kada handak makan di sini.,id-to-banjar
+ulun kada handak makan di sini.,aku nggak ingin maken di sini.,banjar-to-id
+Kamu ingin belajar ke kota.,pian hpiank belajar ka kota.,id-to-banjar
+pian hpiank belajar ka kota.,kemu hkemuk belajar ke kota.,banjar-to-id
+Saya belum pergi di kantor.,ulun balum tulak di kantor.,id-to-banjar
+ulun balum tulak di kantor.,aku belum pergi di kentor.,banjar-to-id
+Anda ingin bangun di rumah.,pian hpiank bangun di rumah.,id-to-banjar
+Kamu tidak mau minum ke sekolah.,pian kada handak minum ka sekolah.,id-to-banjar
+pian kada handak minum ka sekolah.,kemu nggak ingin minum ke sekolah.,banjar-to-id
+Saya tidak mau bangun di rumah.,ulun kada handak bangun di rumah.,id-to-banjar
+ulun kada handak bangun di rumah.,aku nggak ingin bangun di rumah.,banjar-to-id
+Saya mau minum ke pasar.,ulun handak minum ka pasar.,id-to-banjar
+ulun handak minum ka pasar.,aku ingin minum ke pasar.,banjar-to-id
+Saya belum pergi di sini.,ulun balum tulak di sini.,id-to-banjar
+Kamu belum bangun ke kota.,pian balum bangun ka kota.,id-to-banjar
+pian balum bangun ka kota.,kemu belum bangun ke kota.,banjar-to-id
+Saya sudah makan ke kota.,ulun udah makan ka kota.,id-to-banjar
+Anda belum kerja di rumah.,pian balum karja di rumah.,id-to-banjar
+pian balum karja di rumah.,kemu belum kerja di rumah.,banjar-to-id
+Kamu sudah minum ke kota.,pian udah minum ka kota.,id-to-banjar
+pian udah minum ka kota.,kemu sudah minum ke kota.,banjar-to-id
+Aku mau tidur ke kota.,ulun handak tidur ka kota.,id-to-banjar
+ulun handak tidur ka kota.,aku ingin tidur ke kota.,banjar-to-id
+Anda sudah belajar di sini.,pian udah belajar di sini.,id-to-banjar
+pian udah belajar di sini.,kemu sudah belajar di sini.,banjar-to-id
+Kamu ingin bangun ke sekolah.,pian hpiank bangun ka sekolah.,id-to-banjar
+pian hpiank bangun ka sekolah.,kemu hkemuk bangun ke sekolah.,banjar-to-id
+Aku sudah makan di sini.,ulun udah makan di sini.,id-to-banjar
+ulun udah makan di sini.,aku sudah maken di sini.,banjar-to-id
+Saya sudah minum di kantor.,ulun udah minum di kantor.,id-to-banjar
+ulun udah minum di kantor.,aku sudah minum di kentor.,banjar-to-id
+Anda ingin minum ke kota.,pian hpiank minum ka kota.,id-to-banjar
+pian hpiank minum ka kota.,kemu hkemuk minum ke kota.,banjar-to-id
+Anda mau belajar di kantor.,pian handak belajar di kantor.,id-to-banjar
+pian handak belajar di kantor.,kemu ingin belajar di kentor.,banjar-to-id
+Saya ingin kerja di rumah.,ulun hpiank karja di rumah.,id-to-banjar
+ulun hpiank karja di rumah.,aku hkemuk kerja di rumah.,banjar-to-id
+Anda sudah makan di kantor.,pian udah makan di kantor.,id-to-banjar
+pian udah makan di kantor.,kemu sudah maken di kentor.,banjar-to-id
+Aku sudah makan ke pasar.,ulun udah makan ka pasar.,id-to-banjar
+ulun udah makan ka pasar.,aku sudah maken ke pasar.,banjar-to-id
+Aku ingin kerja di sini.,ulun hpiank karja di sini.,id-to-banjar
+ulun hpiank karja di sini.,aku hkemuk kerja di sini.,banjar-to-id
+Kamu ingin belajar di sini.,pian hpiank belajar di sini.,id-to-banjar
+pian hpiank belajar di sini.,kemu hkemuk belajar di sini.,banjar-to-id
+Anda ingin makan ke sekolah.,pian hpiank makan ka sekolah.,id-to-banjar
+pian hpiank makan ka sekolah.,kemu hkemuk maken ke sekolah.,banjar-to-id
+Aku tidak mau kerja ke kota.,ulun kada handak karja ka kota.,id-to-banjar
+ulun kada handak karja ka kota.,aku nggak ingin kerja ke kota.,banjar-to-id
+Kamu belum belajar di rumah.,pian balum belajar di rumah.,id-to-banjar
+pian balum belajar di rumah.,kemu belum belajar di rumah.,banjar-to-id
+Saya ingin belajar di rumah.,ulun hpiank belajar di rumah.,id-to-banjar
+ulun hpiank belajar di rumah.,aku hkemuk belajar di rumah.,banjar-to-id
+Kamu sudah belajar ke pasar.,pian udah belajar ka pasar.,id-to-banjar
+pian udah belajar ka pasar.,kemu sudah belajar ke pasar.,banjar-to-id
+Aku sudah minum di kantor.,ulun udah minum di kantor.,id-to-banjar
+Saya tidak mau pulang ke sekolah.,ulun kada handak mulih ka sekolah.,id-to-banjar
+ulun kada handak mulih ka sekolah.,aku nggak ingin pulang ke sekolah.,banjar-to-id
+Saya tidak mau tidur ke sekolah.,ulun kada handak tidur ka sekolah.,id-to-banjar
+Aku belum kerja di rumah.,ulun balum karja di rumah.,id-to-banjar
+ulun balum karja di rumah.,aku belum kerja di rumah.,banjar-to-id
+Saya tidak mau tidur di kantor.,ulun kada handak tidur di kantor.,id-to-banjar
+ulun kada handak tidur di kantor.,aku nggak ingin tidur di kentor.,banjar-to-id
+Kamu sudah tidur di rumah.,pian udah tidur di rumah.,id-to-banjar
+pian udah tidur di rumah.,kemu sudah tidur di rumah.,banjar-to-id
+Anda belum tidur ke kota.,pian balum tidur ka kota.,id-to-banjar
+pian balum tidur ka kota.,kemu belum tidur ke kota.,banjar-to-id
+Aku tidak mau belajar di sini.,ulun kada handak belajar di sini.,id-to-banjar
+Aku mau kerja di sini.,ulun handak karja di sini.,id-to-banjar
+ulun handak karja di sini.,aku ingin kerja di sini.,banjar-to-id
+Saya tidak mau kerja di kantor.,ulun kada handak karja di kantor.,id-to-banjar
+ulun kada handak karja di kantor.,aku nggak ingin kerja di kentor.,banjar-to-id
+Kamu belum tidur ke sekolah.,pian balum tidur ka sekolah.,id-to-banjar
+pian balum tidur ka sekolah.,kemu belum tidur ke sekolah.,banjar-to-id
+Saya ingin tidur di sini.,ulun hpiank tidur di sini.,id-to-banjar
+ulun hpiank tidur di sini.,aku hkemuk tidur di sini.,banjar-to-id
+Saya belum pulang di rumah.,ulun balum mulih di rumah.,id-to-banjar
+ulun balum mulih di rumah.,aku belum pulang di rumah.,banjar-to-id
+Kamu sudah bangun di sini.,pian udah bangun di sini.,id-to-banjar
+pian udah bangun di sini.,kemu sudah bangun di sini.,banjar-to-id
+Aku sudah minum ke pasar.,ulun udah minum ka pasar.,id-to-banjar
+ulun udah minum ka pasar.,aku sudah minum ke pasar.,banjar-to-id
+Kamu sudah makan ke pasar.,pian udah makan ka pasar.,id-to-banjar
+Aku tidak mau bangun ke pasar.,ulun kada handak bangun ka pasar.,id-to-banjar
+ulun kada handak bangun ka pasar.,aku nggak ingin bangun ke pasar.,banjar-to-id
+Anda tidak mau pergi di rumah.,pian kada handak tulak di rumah.,id-to-banjar
+pian kada handak tulak di rumah.,kemu nggak ingin pergi di rumah.,banjar-to-id
+Anda mau pergi ke sekolah.,pian handak tulak ka sekolah.,id-to-banjar
+pian handak tulak ka sekolah.,kemu ingin pergi ke sekolah.,banjar-to-id
+Anda tidak mau kerja di rumah.,pian kada handak karja di rumah.,id-to-banjar
+pian kada handak karja di rumah.,kemu nggak ingin kerja di rumah.,banjar-to-id
+Kamu mau pergi ke kota.,pian handak tulak ka kota.,id-to-banjar
+pian handak tulak ka kota.,kemu ingin pergi ke kota.,banjar-to-id
+Kamu mau makan ke pasar.,pian handak makan ka pasar.,id-to-banjar
+Aku ingin minum di rumah.,ulun hpiank minum di rumah.,id-to-banjar
+ulun hpiank minum di rumah.,aku hkemuk minum di rumah.,banjar-to-id
+Aku ingin bangun di sini.,ulun hpiank bangun di sini.,id-to-banjar
+ulun hpiank bangun di sini.,aku hkemuk bangun di sini.,banjar-to-id
+Aku tidak mau minum ke kota.,ulun kada handak minum ka kota.,id-to-banjar
+ulun kada handak minum ka kota.,aku nggak ingin minum ke kota.,banjar-to-id
+Kamu belum minum di rumah.,pian balum minum di rumah.,id-to-banjar
+pian balum minum di rumah.,kemu belum minum di rumah.,banjar-to-id
+Kamu tidak mau minum di sini.,pian kada handak minum di sini.,id-to-banjar
+pian kada handak minum di sini.,kemu nggak ingin minum di sini.,banjar-to-id
+Anda tidak mau pulang di rumah.,pian kada handak mulih di rumah.,id-to-banjar
+pian kada handak mulih di rumah.,kemu nggak ingin pulang di rumah.,banjar-to-id
+Kamu belum minum di kantor.,pian balum minum di kantor.,id-to-banjar
+Saya tidak mau bangun ke sekolah.,ulun kada handak bangun ka sekolah.,id-to-banjar
+ulun kada handak bangun ka sekolah.,aku nggak ingin bangun ke sekolah.,banjar-to-id
+Anda sudah pulang ke kota.,pian udah mulih ka kota.,id-to-banjar
+pian udah mulih ka kota.,kemu sudah pulang ke kota.,banjar-to-id
+Anda sudah tidur di sini.,pian udah tidur di sini.,id-to-banjar
+pian udah tidur di sini.,kemu sudah tidur di sini.,banjar-to-id
+Anda tidak mau tidur ke sekolah.,pian kada handak tidur ka sekolah.,id-to-banjar
+pian kada handak tidur ka sekolah.,kemu nggak ingin tidur ke sekolah.,banjar-to-id
+Anda belum makan di rumah.,pian balum makan di rumah.,id-to-banjar
+pian balum makan di rumah.,kemu belum maken di rumah.,banjar-to-id
+Kamu ingin tidur ke kota.,pian hpiank tidur ka kota.,id-to-banjar
+pian hpiank tidur ka kota.,kemu hkemuk tidur ke kota.,banjar-to-id
+Anda tidak mau tidur ke kota.,pian kada handak tidur ka kota.,id-to-banjar
+pian kada handak tidur ka kota.,kemu nggak ingin tidur ke kota.,banjar-to-id
+Aku sudah makan di kantor.,ulun udah makan di kantor.,id-to-banjar
+ulun udah makan di kantor.,aku sudah maken di kentor.,banjar-to-id
+Kamu belum makan di sini.,pian balum makan di sini.,id-to-banjar
+pian balum makan di sini.,kemu belum maken di sini.,banjar-to-id
+Anda tidak mau belajar di rumah.,pian kada handak belajar di rumah.,id-to-banjar
+pian kada handak belajar di rumah.,kemu nggak ingin belajar di rumah.,banjar-to-id
+Kamu mau pergi di kantor.,pian handak tulak di kantor.,id-to-banjar
+pian handak tulak di kantor.,kemu ingin pergi di kentor.,banjar-to-id
+Saya ingin makan ke kota.,ulun hpiank makan ka kota.,id-to-banjar
+ulun hpiank makan ka kota.,aku hkemuk maken ke kota.,banjar-to-id
+Aku tidak mau belajar di rumah.,ulun kada handak belajar di rumah.,id-to-banjar
+ulun kada handak belajar di rumah.,aku nggak ingin belajar di rumah.,banjar-to-id
+Kamu sudah minum ke pasar.,pian udah minum ka pasar.,id-to-banjar
+pian udah minum ka pasar.,kemu sudah minum ke pasar.,banjar-to-id
+Kamu tidak mau bangun ke kota.,pian kada handak bangun ka kota.,id-to-banjar
+pian kada handak bangun ka kota.,kemu nggak ingin bangun ke kota.,banjar-to-id
+Aku ingin pergi di rumah.,ulun hpiank tulak di rumah.,id-to-banjar
+ulun hpiank tulak di rumah.,aku hkemuk pergi di rumah.,banjar-to-id
+Anda ingin belajar ke pasar.,pian hpiank belajar ka pasar.,id-to-banjar
+Kamu tidak mau pulang ke sekolah.,pian kada handak mulih ka sekolah.,id-to-banjar
+pian kada handak mulih ka sekolah.,kemu nggak ingin pulang ke sekolah.,banjar-to-id
+Anda belum pulang ke pasar.,pian balum mulih ka pasar.,id-to-banjar
+pian balum mulih ka pasar.,kemu belum pulang ke pasar.,banjar-to-id
+Anda mau tidur ke sekolah.,pian handak tidur ka sekolah.,id-to-banjar
+Saya ingin pulang di sini.,ulun hpiank mulih di sini.,id-to-banjar
+Kamu sudah belajar di rumah.,pian udah belajar di rumah.,id-to-banjar
+pian udah belajar di rumah.,kemu sudah belajar di rumah.,banjar-to-id
+Saya mau minum di sini.,ulun handak minum di sini.,id-to-banjar
+Anda tidak mau bangun ke kota.,pian kada handak bangun ka kota.,id-to-banjar
+Saya belum pergi ke pasar.,ulun balum tulak ka pasar.,id-to-banjar
+ulun balum tulak ka pasar.,aku belum pergi ke pasar.,banjar-to-id
+Anda ingin belajar di kantor.,pian hpiank belajar di kantor.,id-to-banjar
+pian hpiank belajar di kantor.,kemu hkemuk belajar di kentor.,banjar-to-id
+Anda tidak mau tidur di kantor.,pian kada handak tidur di kantor.,id-to-banjar
+pian kada handak tidur di kantor.,kemu nggak ingin tidur di kentor.,banjar-to-id
+Kamu ingin pulang di rumah.,pian hpiank mulih di rumah.,id-to-banjar
+pian hpiank mulih di rumah.,kemu hkemuk pulang di rumah.,banjar-to-id
+Anda ingin kerja di rumah.,pian hpiank karja di rumah.,id-to-banjar
+pian hpiank karja di rumah.,kemu hkemuk kerja di rumah.,banjar-to-id
+Kamu tidak mau kerja di rumah.,pian kada handak karja di rumah.,id-to-banjar
+Anda sudah pergi ke pasar.,pian udah tulak ka pasar.,id-to-banjar
+pian udah tulak ka pasar.,kemu sudah pergi ke pasar.,banjar-to-id
+Saya mau bangun di sini.,ulun handak bangun di sini.,id-to-banjar
+ulun handak bangun di sini.,aku ingin bangun di sini.,banjar-to-id
+Aku ingin tidur ke sekolah.,ulun hpiank tidur ka sekolah.,id-to-banjar
+ulun hpiank tidur ka sekolah.,aku hkemuk tidur ke sekolah.,banjar-to-id
+Kamu belum belajar di sini.,pian balum belajar di sini.,id-to-banjar
+pian balum belajar di sini.,kemu belum belajar di sini.,banjar-to-id
+Aku belum makan di rumah.,ulun balum makan di rumah.,id-to-banjar
+ulun balum makan di rumah.,aku belum maken di rumah.,banjar-to-id
+Kamu ingin bangun di sini.,pian hpiank bangun di sini.,id-to-banjar
+pian hpiank bangun di sini.,kemu hkemuk bangun di sini.,banjar-to-id
+Aku sudah belajar di sini.,ulun udah belajar di sini.,id-to-banjar
+ulun udah belajar di sini.,aku sudah belajar di sini.,banjar-to-id
+Anda tidak mau bangun di kantor.,pian kada handak bangun di kantor.,id-to-banjar
+pian kada handak bangun di kantor.,kemu nggak ingin bangun di kentor.,banjar-to-id
+Aku tidak mau pergi ke pasar.,ulun kada handak tulak ka pasar.,id-to-banjar
+ulun kada handak tulak ka pasar.,aku nggak ingin pergi ke pasar.,banjar-to-id
+Aku tidak mau pulang ke pasar.,ulun kada handak mulih ka pasar.,id-to-banjar
+ulun kada handak mulih ka pasar.,aku nggak ingin pulang ke pasar.,banjar-to-id
+Kamu ingin kerja ke kota.,pian hpiank karja ka kota.,id-to-banjar
+pian hpiank karja ka kota.,kemu hkemuk kerja ke kota.,banjar-to-id
+Kamu tidak mau tidur ke kota.,pian kada handak tidur ka kota.,id-to-banjar
+Saya belum bangun di rumah.,ulun balum bangun di rumah.,id-to-banjar
+ulun balum bangun di rumah.,aku belum bangun di rumah.,banjar-to-id
+Saya mau bangun di rumah.,ulun handak bangun di rumah.,id-to-banjar
+Kamu mau bangun di kantor.,pian handak bangun di kantor.,id-to-banjar
+pian handak bangun di kantor.,kemu ingin bangun di kentor.,banjar-to-id
+Anda mau makan ke kota.,pian handak makan ka kota.,id-to-banjar
+pian handak makan ka kota.,kemu ingin maken ke kota.,banjar-to-id
+Aku tidak mau bangun di sini.,ulun kada handak bangun di sini.,id-to-banjar
+ulun kada handak bangun di sini.,aku nggak ingin bangun di sini.,banjar-to-id
+Saya belum belajar di sini.,ulun balum belajar di sini.,id-to-banjar
+ulun balum belajar di sini.,aku belum belajar di sini.,banjar-to-id
+Anda mau belajar ke sekolah.,pian handak belajar ka sekolah.,id-to-banjar
+pian handak belajar ka sekolah.,kemu ingin belajar ke sekolah.,banjar-to-id
+Aku ingin pergi ke pasar.,ulun hpiank tulak ka pasar.,id-to-banjar
+ulun hpiank tulak ka pasar.,aku hkemuk pergi ke pasar.,banjar-to-id
+Kamu ingin kerja ke pasar.,pian hpiank karja ka pasar.,id-to-banjar
+pian hpiank karja ka pasar.,kemu hkemuk kerja ke pasar.,banjar-to-id
+Kamu belum minum ke pasar.,pian balum minum ka pasar.,id-to-banjar
+Saya tidak mau makan ke sekolah.,ulun kada handak makan ka sekolah.,id-to-banjar
+ulun kada handak makan ka sekolah.,aku nggak ingin maken ke sekolah.,banjar-to-id
+Anda ingin makan di sini.,pian hpiank makan di sini.,id-to-banjar
+pian hpiank makan di sini.,kemu hkemuk maken di sini.,banjar-to-id
+Saya tidak mau pulang di rumah.,ulun kada handak mulih di rumah.,id-to-banjar
+ulun kada handak mulih di rumah.,aku nggak ingin pulang di rumah.,banjar-to-id
+Aku ingin makan di kantor.,ulun hpiank makan di kantor.,id-to-banjar
+ulun hpiank makan di kantor.,aku hkemuk maken di kentor.,banjar-to-id
+Saya sudah kerja ke kota.,ulun udah karja ka kota.,id-to-banjar
+ulun udah karja ka kota.,aku sudah kerja ke kota.,banjar-to-id
+Aku belum kerja di kantor.,ulun balum karja di kantor.,id-to-banjar
+ulun balum karja di kantor.,aku belum kerja di kentor.,banjar-to-id
+Saya ingin bangun di rumah.,ulun hpiank bangun di rumah.,id-to-banjar
+ulun hpiank bangun di rumah.,aku hkemuk bangun di rumah.,banjar-to-id
+Anda sudah bangun ke pasar.,pian udah bangun ka pasar.,id-to-banjar
+pian udah bangun ka pasar.,kemu sudah bangun ke pasar.,banjar-to-id
+Saya sudah minum ke pasar.,ulun udah minum ka pasar.,id-to-banjar
+Saya sudah bangun ke pasar.,ulun udah bangun ka pasar.,id-to-banjar
+ulun udah bangun ka pasar.,aku sudah bangun ke pasar.,banjar-to-id
+Anda ingin belajar ke kota.,pian hpiank belajar ka kota.,id-to-banjar
+Anda belum kerja ke kota.,pian balum karja ka kota.,id-to-banjar
+pian balum karja ka kota.,kemu belum kerja ke kota.,banjar-to-id
+Aku mau kerja ke kota.,ulun handak karja ka kota.,id-to-banjar
+ulun handak karja ka kota.,aku ingin kerja ke kota.,banjar-to-id
+Saya mau belajar ke kota.,ulun handak belajar ka kota.,id-to-banjar
+ulun handak belajar ka kota.,aku ingin belajar ke kota.,banjar-to-id
+Aku mau bangun ke pasar.,ulun handak bangun ka pasar.,id-to-banjar
+ulun handak bangun ka pasar.,aku ingin bangun ke pasar.,banjar-to-id
+Kamu tidak mau pergi di rumah.,pian kada handak tulak di rumah.,id-to-banjar
+Anda mau belajar di rumah.,pian handak belajar di rumah.,id-to-banjar
+pian handak belajar di rumah.,kemu ingin belajar di rumah.,banjar-to-id
+Aku belum bangun ke kota.,ulun balum bangun ka kota.,id-to-banjar
+ulun balum bangun ka kota.,aku belum bangun ke kota.,banjar-to-id
+Saya sudah pulang ke kota.,ulun udah mulih ka kota.,id-to-banjar
+Aku sudah pergi ke pasar.,ulun udah tulak ka pasar.,id-to-banjar
+ulun udah tulak ka pasar.,aku sudah pergi ke pasar.,banjar-to-id
+Anda ingin pulang di rumah.,pian hpiank mulih di rumah.,id-to-banjar
+Anda belum pergi di rumah.,pian balum tulak di rumah.,id-to-banjar
+pian balum tulak di rumah.,kemu belum pergi di rumah.,banjar-to-id
+Aku ingin tidur ke kota.,ulun hpiank tidur ka kota.,id-to-banjar
+ulun hpiank tidur ka kota.,aku hkemuk tidur ke kota.,banjar-to-id
+Aku sudah belajar ke kota.,ulun udah belajar ka kota.,id-to-banjar
+ulun udah belajar ka kota.,aku sudah belajar ke kota.,banjar-to-id
+Aku ingin belajar ke pasar.,ulun hpiank belajar ka pasar.,id-to-banjar
+ulun hpiank belajar ka pasar.,aku hkemuk belajar ke pasar.,banjar-to-id
+Kamu ingin makan ke kota.,pian hpiank makan ka kota.,id-to-banjar
+pian hpiank makan ka kota.,kemu hkemuk maken ke kota.,banjar-to-id
+Anda mau bangun ke kota.,pian handak bangun ka kota.,id-to-banjar
+Anda sudah kerja ke kota.,pian udah karja ka kota.,id-to-banjar
+pian udah karja ka kota.,kemu sudah kerja ke kota.,banjar-to-id
+Kamu mau bangun ke pasar.,pian handak bangun ka pasar.,id-to-banjar
+pian handak bangun ka pasar.,kemu ingin bangun ke pasar.,banjar-to-id
+Aku ingin pergi di sini.,ulun hpiank tulak di sini.,id-to-banjar
+ulun hpiank tulak di sini.,aku hkemuk pergi di sini.,banjar-to-id
+Saya mau pulang di rumah.,ulun handak mulih di rumah.,id-to-banjar
+ulun handak mulih di rumah.,aku ingin pulang di rumah.,banjar-to-id
+Kamu belum bangun di sini.,pian balum bangun di sini.,id-to-banjar
+pian balum bangun di sini.,kemu belum bangun di sini.,banjar-to-id
+Anda tidak mau tidur di rumah.,pian kada handak tidur di rumah.,id-to-banjar
+pian kada handak tidur di rumah.,kemu nggak ingin tidur di rumah.,banjar-to-id
+Aku sudah tidur ke kota.,ulun udah tidur ka kota.,id-to-banjar
+ulun udah tidur ka kota.,aku sudah tidur ke kota.,banjar-to-id
+Aku sudah kerja di sini.,ulun udah karja di sini.,id-to-banjar
+Saya ingin minum ke pasar.,ulun hpiank minum ka pasar.,id-to-banjar
+ulun hpiank minum ka pasar.,aku hkemuk minum ke pasar.,banjar-to-id
+Kamu sudah tidur ke kota.,pian udah tidur ka kota.,id-to-banjar
+pian udah tidur ka kota.,kemu sudah tidur ke kota.,banjar-to-id
+Aku ingin pulang di kantor.,ulun hpiank mulih di kantor.,id-to-banjar
+ulun hpiank mulih di kantor.,aku hkemuk pulang di kentor.,banjar-to-id
+Anda mau minum ke pasar.,pian handak minum ka pasar.,id-to-banjar
+Saya ingin makan di rumah.,ulun hpiank makan di rumah.,id-to-banjar
+Aku belum tidur ke kota.,ulun balum tidur ka kota.,id-to-banjar
+Aku belum tidur di kantor.,ulun balum tidur di kantor.,id-to-banjar
+ulun balum tidur di kantor.,aku belum tidur di kentor.,banjar-to-id
+Kamu mau minum di rumah.,pian handak minum di rumah.,id-to-banjar
+pian handak minum di rumah.,kemu ingin minum di rumah.,banjar-to-id
+Saya tidak mau tidur di rumah.,ulun kada handak tidur di rumah.,id-to-banjar
+ulun kada handak tidur di rumah.,aku nggak ingin tidur di rumah.,banjar-to-id
+Saya tidak mau bangun ke pasar.,ulun kada handak bangun ka pasar.,id-to-banjar
+Kamu sudah kerja ke kota.,pian udah karja ka kota.,id-to-banjar
+Saya tidak mau pulang ke kota.,ulun kada handak mulih ka kota.,id-to-banjar
+Anda tidak mau pergi di kantor.,pian kada handak tulak di kantor.,id-to-banjar
+Kamu mau bangun ke sekolah.,pian handak bangun ka sekolah.,id-to-banjar
+pian handak bangun ka sekolah.,kemu ingin bangun ke sekolah.,banjar-to-id
+Aku belum pulang ke pasar.,ulun balum mulih ka pasar.,id-to-banjar
+ulun balum mulih ka pasar.,aku belum pulang ke pasar.,banjar-to-id
+Saya belum bangun ke kota.,ulun balum bangun ka kota.,id-to-banjar
+Saya sudah pergi ke pasar.,ulun udah tulak ka pasar.,id-to-banjar
+Kamu belum bangun di kantor.,pian balum bangun di kantor.,id-to-banjar
+pian balum bangun di kantor.,kemu belum bangun di kentor.,banjar-to-id
+Kamu belum kerja di kantor.,pian balum karja di kantor.,id-to-banjar
+pian balum karja di kantor.,kemu belum kerja di kentor.,banjar-to-id
+Saya ingin pulang ke kota.,ulun hpiank mulih ka kota.,id-to-banjar
+Saya sudah belajar di sini.,ulun udah belajar di sini.,id-to-banjar
+Aku tidak mau pergi ke kota.,ulun kada handak tulak ka kota.,id-to-banjar
+ulun kada handak tulak ka kota.,aku nggak ingin pergi ke kota.,banjar-to-id
+Saya tidak mau tidur di sini.,ulun kada handak tidur di sini.,id-to-banjar
+Aku mau pulang ke kota.,ulun handak mulih ka kota.,id-to-banjar
+ulun handak mulih ka kota.,aku ingin pulang ke kota.,banjar-to-id
+Saya tidak mau makan ke kota.,ulun kada handak makan ka kota.,id-to-banjar
+ulun kada handak makan ka kota.,aku nggak ingin maken ke kota.,banjar-to-id
+Aku tidak mau kerja di rumah.,ulun kada handak karja di rumah.,id-to-banjar
+ulun kada handak karja di rumah.,aku nggak ingin kerja di rumah.,banjar-to-id
+Aku sudah pergi ke sekolah.,ulun udah tulak ka sekolah.,id-to-banjar
+Kamu tidak mau pergi ke sekolah.,pian kada handak tulak ka sekolah.,id-to-banjar
+pian kada handak tulak ka sekolah.,kemu nggak ingin pergi ke sekolah.,banjar-to-id
+Aku ingin belajar di kantor.,ulun hpiank belajar di kantor.,id-to-banjar
+ulun hpiank belajar di kantor.,aku hkemuk belajar di kentor.,banjar-to-id
+Aku mau kerja di kantor.,ulun handak karja di kantor.,id-to-banjar
+ulun handak karja di kantor.,aku ingin kerja di kentor.,banjar-to-id
+Anda tidak mau makan di kantor.,pian kada handak makan di kantor.,id-to-banjar
+pian kada handak makan di kantor.,kemu nggak ingin maken di kentor.,banjar-to-id
+Kamu tidak mau kerja ke sekolah.,pian kada handak karja ka sekolah.,id-to-banjar
+Saya belum pergi ke kota.,ulun balum tulak ka kota.,id-to-banjar
+ulun balum tulak ka kota.,aku belum pergi ke kota.,banjar-to-id
+Aku mau belajar di rumah.,ulun handak belajar di rumah.,id-to-banjar
+ulun handak belajar di rumah.,aku ingin belajar di rumah.,banjar-to-id
+Saya ingin pergi di sini.,ulun hpiank tulak di sini.,id-to-banjar
+Anda tidak mau tidur di sini.,pian kada handak tidur di sini.,id-to-banjar
+pian kada handak tidur di sini.,kemu nggak ingin tidur di sini.,banjar-to-id
+Anda mau bangun ke pasar.,pian handak bangun ka pasar.,id-to-banjar
+Saya sudah bangun di sini.,ulun udah bangun di sini.,id-to-banjar
+Anda belum belajar di kantor.,pian balum belajar di kantor.,id-to-banjar
+pian balum belajar di kantor.,kemu belum belajar di kentor.,banjar-to-id
+Aku mau makan ke kota.,ulun handak makan ka kota.,id-to-banjar
+ulun handak makan ka kota.,aku ingin maken ke kota.,banjar-to-id
+Anda sudah kerja ke pasar.,pian udah karja ka pasar.,id-to-banjar
+pian udah karja ka pasar.,kemu sudah kerja ke pasar.,banjar-to-id
+Anda sudah pergi di kantor.,pian udah tulak di kantor.,id-to-banjar
+Saya mau belajar di rumah.,ulun handak belajar di rumah.,id-to-banjar
+Kamu ingin minum di sini.,pian hpiank minum di sini.,id-to-banjar
+pian hpiank minum di sini.,kemu hkemuk minum di sini.,banjar-to-id
+Anda sudah bangun di sini.,pian udah bangun di sini.,id-to-banjar
+Kamu belum pulang ke sekolah.,pian balum mulih ka sekolah.,id-to-banjar
+pian balum mulih ka sekolah.,kemu belum pulang ke sekolah.,banjar-to-id
+Saya mau bangun ke kota.,ulun handak bangun ka kota.,id-to-banjar
+ulun handak bangun ka kota.,aku ingin bangun ke kota.,banjar-to-id
+Saya mau tidur di kantor.,ulun handak tidur di kantor.,id-to-banjar
+ulun handak tidur di kantor.,aku ingin tidur di kentor.,banjar-to-id
+Aku mau pergi ke sekolah.,ulun handak tulak ka sekolah.,id-to-banjar
+ulun handak tulak ka sekolah.,aku ingin pergi ke sekolah.,banjar-to-id
+Anda ingin kerja ke pasar.,pian hpiank karja ka pasar.,id-to-banjar
+Saya tidak mau bangun ke kota.,ulun kada handak bangun ka kota.,id-to-banjar
+ulun kada handak bangun ka kota.,aku nggak ingin bangun ke kota.,banjar-to-id
+Anda ingin minum ke pasar.,pian hpiank minum ka pasar.,id-to-banjar
+pian hpiank minum ka pasar.,kemu hkemuk minum ke pasar.,banjar-to-id
+Aku tidak mau belajar ke pasar.,ulun kada handak belajar ka pasar.,id-to-banjar
+ulun kada handak belajar ka pasar.,aku nggak ingin belajar ke pasar.,banjar-to-id
+Anda mau tidur ke kota.,pian handak tidur ka kota.,id-to-banjar
+pian handak tidur ka kota.,kemu ingin tidur ke kota.,banjar-to-id
+Kamu mau belajar ke kota.,pian handak belajar ka kota.,id-to-banjar
+pian handak belajar ka kota.,kemu ingin belajar ke kota.,banjar-to-id
+Kamu sudah pergi ke kota.,pian udah tulak ka kota.,id-to-banjar
+Anda sudah pulang di rumah.,pian udah mulih di rumah.,id-to-banjar
+Aku belum bangun di sini.,ulun balum bangun di sini.,id-to-banjar
+ulun balum bangun di sini.,aku belum bangun di sini.,banjar-to-id
+Aku mau belajar ke pasar.,ulun handak belajar ka pasar.,id-to-banjar
+ulun handak belajar ka pasar.,aku ingin belajar ke pasar.,banjar-to-id
+Anda mau pulang di kantor.,pian handak mulih di kantor.,id-to-banjar
+pian handak mulih di kantor.,kemu ingin pulang di kentor.,banjar-to-id
+Kamu ingin belajar ke sekolah.,pian hpiank belajar ka sekolah.,id-to-banjar
+Anda mau tidur di sini.,pian handak tidur di sini.,id-to-banjar
+pian handak tidur di sini.,kemu ingin tidur di sini.,banjar-to-id
+Kamu tidak mau minum ke pasar.,pian kada handak minum ka pasar.,id-to-banjar
+pian kada handak minum ka pasar.,kemu nggak ingin minum ke pasar.,banjar-to-id
+Saya ingin tidur ke sekolah.,ulun hpiank tidur ka sekolah.,id-to-banjar
+Saya ingin pulang di rumah.,ulun hpiank mulih di rumah.,id-to-banjar
+ulun hpiank mulih di rumah.,aku hkemuk pulang di rumah.,banjar-to-id
+Aku ingin pulang ke sekolah.,ulun hpiank mulih ka sekolah.,id-to-banjar
+ulun hpiank mulih ka sekolah.,aku hkemuk pulang ke sekolah.,banjar-to-id
+Saya sudah pulang ke pasar.,ulun udah mulih ka pasar.,id-to-banjar
+ulun udah mulih ka pasar.,aku sudah pulang ke pasar.,banjar-to-id
+Aku mau pergi di kantor.,ulun handak tulak di kantor.,id-to-banjar
+ulun handak tulak di kantor.,aku ingin pergi di kentor.,banjar-to-id
+Anda belum minum di rumah.,pian balum minum di rumah.,id-to-banjar
+Aku tidak mau minum di kantor.,ulun kada handak minum di kantor.,id-to-banjar
+ulun kada handak minum di kantor.,aku nggak ingin minum di kentor.,banjar-to-id
+Anda mau pulang ke pasar.,pian handak mulih ka pasar.,id-to-banjar
+Saya belum pulang ke pasar.,ulun balum mulih ka pasar.,id-to-banjar
+Aku sudah pergi di rumah.,ulun udah tulak di rumah.,id-to-banjar
+ulun udah tulak di rumah.,aku sudah pergi di rumah.,banjar-to-id
+Anda mau kerja di rumah.,pian handak karja di rumah.,id-to-banjar
+pian handak karja di rumah.,kemu ingin kerja di rumah.,banjar-to-id
+Saya ingin bangun di kantor.,ulun hpiank bangun di kantor.,id-to-banjar
+ulun hpiank bangun di kantor.,aku hkemuk bangun di kentor.,banjar-to-id
+Anda tidak mau kerja ke pasar.,pian kada handak karja ka pasar.,id-to-banjar
+pian kada handak karja ka pasar.,kemu nggak ingin kerja ke pasar.,banjar-to-id
+Aku sudah tidur di kantor.,ulun udah tidur di kantor.,id-to-banjar
+ulun udah tidur di kantor.,aku sudah tidur di kentor.,banjar-to-id
+Aku ingin pergi di kantor.,ulun hpiank tulak di kantor.,id-to-banjar
+ulun hpiank tulak di kantor.,aku hkemuk pergi di kentor.,banjar-to-id
+Anda tidak mau makan ke sekolah.,pian kada handak makan ka sekolah.,id-to-banjar
+pian kada handak makan ka sekolah.,kemu nggak ingin maken ke sekolah.,banjar-to-id
+Kamu ingin bangun ke kota.,pian hpiank bangun ka kota.,id-to-banjar
+Kamu mau kerja di kantor.,pian handak karja di kantor.,id-to-banjar
+pian handak karja di kantor.,kemu ingin kerja di kentor.,banjar-to-id
+Kamu ingin minum ke kota.,pian hpiank minum ka kota.,id-to-banjar
+Anda belum kerja ke pasar.,pian balum karja ka pasar.,id-to-banjar
+pian balum karja ka pasar.,kemu belum kerja ke pasar.,banjar-to-id
+Aku tidak mau belajar ke sekolah.,ulun kada handak belajar ka sekolah.,id-to-banjar
+ulun kada handak belajar ka sekolah.,aku nggak ingin belajar ke sekolah.,banjar-to-id
+Saya belum pulang di sini.,ulun balum mulih di sini.,id-to-banjar
+ulun balum mulih di sini.,aku belum pulang di sini.,banjar-to-id
+Kamu ingin minum ke pasar.,pian hpiank minum ka pasar.,id-to-banjar
+Saya sudah tidur di rumah.,ulun udah tidur di rumah.,id-to-banjar
+Anda tidak mau belajar di sini.,pian kada handak belajar di sini.,id-to-banjar
+Saya tidak mau kerja di sini.,ulun kada handak karja di sini.,id-to-banjar
+ulun kada handak karja di sini.,aku nggak ingin kerja di sini.,banjar-to-id
+Anda ingin tidur ke kota.,pian hpiank tidur ka kota.,id-to-banjar
+Anda belum pergi ke sekolah.,pian balum tulak ka sekolah.,id-to-banjar
+Kamu ingin minum di rumah.,pian hpiank minum di rumah.,id-to-banjar
+pian hpiank minum di rumah.,kemu hkemuk minum di rumah.,banjar-to-id
+Anda belum belajar ke sekolah.,pian balum belajar ka sekolah.,id-to-banjar
+pian balum belajar ka sekolah.,kemu belum belajar ke sekolah.,banjar-to-id
+Anda mau pulang di sini.,pian handak mulih di sini.,id-to-banjar
+Anda belum pergi di kantor.,pian balum tulak di kantor.,id-to-banjar
+Kamu belum pergi ke kota.,pian balum tulak ka kota.,id-to-banjar
+pian balum tulak ka kota.,kemu belum pergi ke kota.,banjar-to-id
+Kamu sudah bangun di kantor.,pian udah bangun di kantor.,id-to-banjar
+pian udah bangun di kantor.,kemu sudah bangun di kentor.,banjar-to-id
+Aku sudah pergi ke kota.,ulun udah tulak ka kota.,id-to-banjar
+ulun udah tulak ka kota.,aku sudah pergi ke kota.,banjar-to-id
+Saya ingin minum ke sekolah.,ulun hpiank minum ka sekolah.,id-to-banjar
+ulun hpiank minum ka sekolah.,aku hkemuk minum ke sekolah.,banjar-to-id
+Aku belum pergi di kantor.,ulun balum tulak di kantor.,id-to-banjar
+Anda sudah bangun di kantor.,pian udah bangun di kantor.,id-to-banjar
+Anda mau bangun ke sekolah.,pian handak bangun ka sekolah.,id-to-banjar
+Kamu belum kerja di rumah.,pian balum karja di rumah.,id-to-banjar
+Saya sudah tidur di sini.,ulun udah tidur di sini.,id-to-banjar
+Kamu sudah pergi di sini.,pian udah tulak di sini.,id-to-banjar
+pian udah tulak di sini.,kemu sudah pergi di sini.,banjar-to-id
+Anda belum bangun ke sekolah.,pian balum bangun ka sekolah.,id-to-banjar
+Anda tidak mau pergi ke kota.,pian kada handak tulak ka kota.,id-to-banjar
+pian kada handak tulak ka kota.,kemu nggak ingin pergi ke kota.,banjar-to-id
+Saya ingin belajar di sini.,ulun hpiank belajar di sini.,id-to-banjar
+ulun hpiank belajar di sini.,aku hkemuk belajar di sini.,banjar-to-id
+Saya mau kerja di kantor.,ulun handak karja di kantor.,id-to-banjar
+Aku ingin bangun di rumah.,ulun hpiank bangun di rumah.,id-to-banjar
+Anda ingin pulang ke kota.,pian hpiank mulih ka kota.,id-to-banjar
+pian hpiank mulih ka kota.,kemu hkemuk pulang ke kota.,banjar-to-id
+Saya belum tidur di sini.,ulun balum tidur di sini.,id-to-banjar
+ulun balum tidur di sini.,aku belum tidur di sini.,banjar-to-id
+Anda tidak mau kerja ke kota.,pian kada handak karja ka kota.,id-to-banjar
+pian kada handak karja ka kota.,kemu nggak ingin kerja ke kota.,banjar-to-id
+Anda belum kerja di sini.,pian balum karja di sini.,id-to-banjar
+pian balum karja di sini.,kemu belum kerja di sini.,banjar-to-id
+Aku ingin tidur ke pasar.,ulun hpiank tidur ka pasar.,id-to-banjar
+ulun hpiank tidur ka pasar.,aku hkemuk tidur ke pasar.,banjar-to-id
+Saya mau belajar ke pasar.,ulun handak belajar ka pasar.,id-to-banjar
+Anda sudah pulang di kantor.,pian udah mulih di kantor.,id-to-banjar
+pian udah mulih di kantor.,kemu sudah pulang di kentor.,banjar-to-id
+Anda sudah belajar di kantor.,pian udah belajar di kantor.,id-to-banjar
+pian udah belajar di kantor.,kemu sudah belajar di kentor.,banjar-to-id
+Anda tidak mau kerja di sini.,pian kada handak karja di sini.,id-to-banjar
+pian kada handak karja di sini.,kemu nggak ingin kerja di sini.,banjar-to-id
+Kamu belum pulang ke pasar.,pian balum mulih ka pasar.,id-to-banjar
+Aku sudah kerja di rumah.,ulun udah karja di rumah.,id-to-banjar
+ulun udah karja di rumah.,aku sudah kerja di rumah.,banjar-to-id
+Saya ingin makan di sini.,ulun hpiank makan di sini.,id-to-banjar
+Saya sudah tidur di kantor.,ulun udah tidur di kantor.,id-to-banjar
+Kamu ingin pergi ke pasar.,pian hpiank tulak ka pasar.,id-to-banjar
+pian hpiank tulak ka pasar.,kemu hkemuk pergi ke pasar.,banjar-to-id
+Aku ingin bangun ke kota.,ulun hpiank bangun ka kota.,id-to-banjar
+ulun hpiank bangun ka kota.,aku hkemuk bangun ke kota.,banjar-to-id
+Aku tidak mau pulang di kantor.,ulun kada handak mulih di kantor.,id-to-banjar
+ulun kada handak mulih di kantor.,aku nggak ingin pulang di kentor.,banjar-to-id
+Saya mau tidur di rumah.,ulun handak tidur di rumah.,id-to-banjar
+ulun handak tidur di rumah.,aku ingin tidur di rumah.,banjar-to-id
+Kamu ingin pergi ke kota.,pian hpiank tulak ka kota.,id-to-banjar
+pian hpiank tulak ka kota.,kemu hkemuk pergi ke kota.,banjar-to-id
+Kamu mau belajar di kantor.,pian handak belajar di kantor.,id-to-banjar
+Aku ingin makan ke kota.,ulun hpiank makan ka kota.,id-to-banjar
+Aku sudah kerja ke sekolah.,ulun udah karja ka sekolah.,id-to-banjar
+ulun udah karja ka sekolah.,aku sudah kerja ke sekolah.,banjar-to-id
+Saya belum kerja di kantor.,ulun balum karja di kantor.,id-to-banjar
+Anda belum tidur di sini.,pian balum tidur di sini.,id-to-banjar
+pian balum tidur di sini.,kemu belum tidur di sini.,banjar-to-id
+Kamu ingin tidur ke pasar.,pian hpiank tidur ka pasar.,id-to-banjar
+pian hpiank tidur ka pasar.,kemu hkemuk tidur ke pasar.,banjar-to-id
+Kamu belum kerja ke sekolah.,pian balum karja ka sekolah.,id-to-banjar
+pian balum karja ka sekolah.,kemu belum kerja ke sekolah.,banjar-to-id
+Saya ingin tidur ke pasar.,ulun hpiank tidur ka pasar.,id-to-banjar
+Saya mau kerja ke kota.,ulun handak karja ka kota.,id-to-banjar
+Anda mau kerja di kantor.,pian handak karja di kantor.,id-to-banjar
+Aku belum belajar di kantor.,ulun balum belajar di kantor.,id-to-banjar
+ulun balum belajar di kantor.,aku belum belajar di kentor.,banjar-to-id
+Aku tidak mau bangun di rumah.,ulun kada handak bangun di rumah.,id-to-banjar
+Aku belum belajar ke kota.,ulun balum belajar ka kota.,id-to-banjar
+ulun balum belajar ka kota.,aku belum belajar ke kota.,banjar-to-id
+Kamu sudah makan di rumah.,pian udah makan di rumah.,id-to-banjar
+pian udah makan di rumah.,kemu sudah maken di rumah.,banjar-to-id
+Aku tidak mau bangun ke kota.,ulun kada handak bangun ka kota.,id-to-banjar
+Saya mau makan di rumah.,ulun handak makan di rumah.,id-to-banjar
+ulun handak makan di rumah.,aku ingin maken di rumah.,banjar-to-id
+Saya sudah pulang di rumah.,ulun udah mulih di rumah.,id-to-banjar
+ulun udah mulih di rumah.,aku sudah pulang di rumah.,banjar-to-id
+Aku belum pulang di kantor.,ulun balum mulih di kantor.,id-to-banjar
+Aku mau bangun ke kota.,ulun handak bangun ka kota.,id-to-banjar
+Anda mau tidur di rumah.,pian handak tidur di rumah.,id-to-banjar
+Saya belum kerja ke sekolah.,ulun balum karja ka sekolah.,id-to-banjar
+ulun balum karja ka sekolah.,aku belum kerja ke sekolah.,banjar-to-id
+Aku ingin bangun ke sekolah.,ulun hpiank bangun ka sekolah.,id-to-banjar
+ulun hpiank bangun ka sekolah.,aku hkemuk bangun ke sekolah.,banjar-to-id
+Saya ingin minum di rumah.,ulun hpiank minum di rumah.,id-to-banjar
+Aku belum pulang di rumah.,ulun balum mulih di rumah.,id-to-banjar
+Aku ingin makan ke sekolah.,ulun hpiank makan ka sekolah.,id-to-banjar
+ulun hpiank makan ka sekolah.,aku hkemuk maken ke sekolah.,banjar-to-id
+Saya belum kerja di rumah.,ulun balum karja di rumah.,id-to-banjar
+Aku sudah belajar ke pasar.,ulun udah belajar ka pasar.,id-to-banjar
+ulun udah belajar ka pasar.,aku sudah belajar ke pasar.,banjar-to-id
+Kamu tidak mau pergi ke kota.,pian kada handak tulak ka kota.,id-to-banjar
+Aku mau makan di rumah.,ulun handak makan di rumah.,id-to-banjar
+Aku sudah minum ke kota.,ulun udah minum ka kota.,id-to-banjar
+ulun udah minum ka kota.,aku sudah minum ke kota.,banjar-to-id
+Saya belum tidur di rumah.,ulun balum tidur di rumah.,id-to-banjar
+ulun balum tidur di rumah.,aku belum tidur di rumah.,banjar-to-id
+napa kabar?,apa kebar?,banjar-to-id
+Bagaimana kabarmu?,kaynapa kabarmu?,id-to-banjar
+kaynapa kabarmu?,keyapa kebarmu?,banjar-to-id
+Kamu mau pergi kemana?,pian handak tulak kamana?,id-to-banjar
+pian handak tulak kamana?,kemu ingin pergi kemana?,banjar-to-id
+Anda sudah makan?,pian udah makan?,id-to-banjar
+pian udah makan?,kemu sudah maken?,banjar-to-id
+Kenapa kamu tidak datang?,kaina pian kada datang?,id-to-banjar
+kaina pian kada datang?,keapa kemu nggak datang?,banjar-to-id
+Dimana kamu sekarang?,di mana pian wayah ini?,id-to-banjar
+di mana pian wayah ini?,dimana kemu sekerang?,banjar-to-id
+tulung bantu ulun.,tolong bantu aku.,banjar-to-id
+Terima kasih banyak.,matur kasih banyak.,id-to-banjar
+matur kasih banyak.,terima kesih banyak.,banjar-to-id

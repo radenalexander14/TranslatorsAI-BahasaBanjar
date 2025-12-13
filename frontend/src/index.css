@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 20% 7%;
+    --foreground: 40 30% 95%;
+    --card: 220 18% 10%;
+    --card-foreground: 40 30% 95%;
+    --popover: 220 18% 10%;
+    --popover-foreground: 40 30% 95%;
+    --primary: 28 95% 55%;
+    --primary-foreground: 220 20% 7%;
+    --secondary: 220 15% 15%;
+    --secondary-foreground: 40 30% 90%;
+    --muted: 220 15% 18%;
+    --muted-foreground: 220 10% 60%;
+    --accent: 28 80% 45%;
+    --accent-foreground: 40 30% 95%;
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 40 30% 95%;
+    --border: 220 15% 20%;
+    --input: 220 15% 15%;
+    --ring: 28 95% 55%;
+    --radius: 1rem;
+    --translator-indonesia: 200 80% 50%;
+    --translator-banjar: 28 90% 55%;
+  }
+}
+
+@layer base {
+  * { @apply border-border; }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 { font-family: 'Space Grotesk', sans-serif; }
+}
+
+@layer components {
+  .translator-card {
+    @apply relative overflow-hidden rounded-2xl border border-border/50 backdrop-blur-xl;
+    background: hsl(220 20% 10% / 0.8);
+    box-shadow: 0 10px 40px -10px hsl(0 0% 0% / 0.4);
+  }
+  .translator-input {
+    @apply w-full min-h-[200px] resize-none border-0 bg-transparent p-6 text-lg focus:outline-none focus:ring-0;
+  }
+  .language-badge-indonesia {
+    @apply inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold;
+    background: hsl(200 80% 50% / 0.15);
+    color: hsl(200 80% 60%);
+    border: 1px solid hsl(200 80% 50% / 0.3);
+  }
+  .language-badge-banjar {
+    @apply inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold;
+    background: hsl(28 90% 55% / 0.15);
+    color: hsl(28 90% 65%);
+    border: 1px solid hsl(28 90% 55% / 0.3);
+  }
+  .scan-zone {
+    @apply relative flex flex-col items-center justify-center rounded-2xl border-2 border-dashed transition-all duration-300;
+    border-color: hsl(var(--border));
+    min-height: 300px;
+  }
+  .scan-zone:hover, .scan-zone.active {
+    border-color: hsl(var(--primary));
+    background: hsl(28 95% 55% / 0.05);
+  }
+  .gradient-text {
+    background: linear-gradient(135deg, hsl(200 80% 50%), hsl(28 90% 55%));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in { animation: fade-in 0.5s ease-out; }
+  @keyframes fade-in {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
